@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Pequeño Formulario/1.0.0": {
+        "runtime": {
+          "Pequeño Formulario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pequeño Formulario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
