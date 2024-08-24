@@ -1,0 +1,50 @@
+C:\Users\Nachito\Documents\Proyecto\Pequeño Formulario\Practico2\bin\Debug\net8.0-windows\Pequeño Formulario.exe
+C:\Users\Nachito\Documents\Proyecto\Pequeño Formulario\Practico2\bin\Debug\net8.0-windows\Pequeño Formulario.deps.json
+C:\Users\Nachito\Documents\Proyecto\Pequeño Formulario\Practico2\bin\Debug\net8.0-windows\Pequeño Formulario.runtimeconfig.json
+C:\Users\Nachito\Documents\Proyecto\Pequeño Formulario\Practico2\bin\Debug\net8.0-windows\Pequeño Formulario.dll
+C:\Users\Nachito\Documents\Proyecto\Pequeño Formulario\Practico2\bin\Debug\net8.0-windows\Pequeño Formulario.pdb
+C:\Users\Nachito\Documents\Proyecto\Pequeño Formulario\Practico2\obj\Debug\net8.0-windows\Practico2.Form1.resources
+C:\Users\Nachito\Documents\Proyecto\Pequeño Formulario\Practico2\obj\Debug\net8.0-windows\Pequeño Formulario.csproj.GenerateResource.cache
+C:\Users\Nachito\Documents\Proyecto\Pequeño Formulario\Practico2\obj\Debug\net8.0-windows\Pequeño Formulario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nachito\Documents\Proyecto\Pequeño Formulario\Practico2\obj\Debug\net8.0-windows\Pequeño Formulario.AssemblyInfoInputs.cache
+C:\Users\Nachito\Documents\Proyecto\Pequeño Formulario\Practico2\obj\Debug\net8.0-windows\Pequeño Formulario.AssemblyInfo.cs
+C:\Users\Nachito\Documents\Proyecto\Pequeño Formulario\Practico2\obj\Debug\net8.0-windows\Pequeño Formulario.csproj.CoreCompileInputs.cache
+C:\Users\Nachito\Documents\Proyecto\Pequeño Formulario\Practico2\obj\Debug\net8.0-windows\Pequeño Formulario.dll
+C:\Users\Nachito\Documents\Proyecto\Pequeño Formulario\Practico2\obj\Debug\net8.0-windows\refint\Pequeño Formulario.dll
+C:\Users\Nachito\Documents\Proyecto\Pequeño Formulario\Practico2\obj\Debug\net8.0-windows\Pequeño Formulario.pdb
+C:\Users\Nachito\Documents\Proyecto\Pequeño Formulario\Practico2\obj\Debug\net8.0-windows\Pequeño Formulario.genruntimeconfig.cache
+C:\Users\Nachito\Documents\Proyecto\Pequeño Formulario\Practico2\obj\Debug\net8.0-windows\ref\Pequeño Formulario.dll
+C:\Users\Nachito\Documents\Proyecto\Practicos1_3\Practico2\Practico2\bin\Debug\net8.0-windows\Pequeño Formulario.exe
+C:\Users\Nachito\Documents\Proyecto\Practicos1_3\Practico2\Practico2\bin\Debug\net8.0-windows\Pequeño Formulario.deps.json
+C:\Users\Nachito\Documents\Proyecto\Practicos1_3\Practico2\Practico2\bin\Debug\net8.0-windows\Pequeño Formulario.runtimeconfig.json
+C:\Users\Nachito\Documents\Proyecto\Practicos1_3\Practico2\Practico2\bin\Debug\net8.0-windows\Pequeño Formulario.dll
+C:\Users\Nachito\Documents\Proyecto\Practicos1_3\Practico2\Practico2\bin\Debug\net8.0-windows\Pequeño Formulario.pdb
+C:\Users\Nachito\Documents\Proyecto\Practicos1_3\Practico2\Practico2\obj\Debug\net8.0-windows\Practico2.Form1.resources
+C:\Users\Nachito\Documents\Proyecto\Practicos1_3\Practico2\Practico2\obj\Debug\net8.0-windows\Pequeño Formulario.csproj.GenerateResource.cache
+C:\Users\Nachito\Documents\Proyecto\Practicos1_3\Practico2\Practico2\obj\Debug\net8.0-windows\Pequeño Formulario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nachito\Documents\Proyecto\Practicos1_3\Practico2\Practico2\obj\Debug\net8.0-windows\Pequeño Formulario.AssemblyInfoInputs.cache
+C:\Users\Nachito\Documents\Proyecto\Practicos1_3\Practico2\Practico2\obj\Debug\net8.0-windows\Pequeño Formulario.AssemblyInfo.cs
+C:\Users\Nachito\Documents\Proyecto\Practicos1_3\Practico2\Practico2\obj\Debug\net8.0-windows\Pequeño Formulario.csproj.CoreCompileInputs.cache
+C:\Users\Nachito\Documents\Proyecto\Practicos1_3\Practico2\Practico2\obj\Debug\net8.0-windows\Pequeño Formulario.dll
+C:\Users\Nachito\Documents\Proyecto\Practicos1_3\Practico2\Practico2\obj\Debug\net8.0-windows\refint\Pequeño Formulario.dll
+C:\Users\Nachito\Documents\Proyecto\Practicos1_3\Practico2\Practico2\obj\Debug\net8.0-windows\Pequeño Formulario.pdb
+C:\Users\Nachito\Documents\Proyecto\Practicos1_3\Practico2\Practico2\obj\Debug\net8.0-windows\Pequeño Formulario.genruntimeconfig.cache
+C:\Users\Nachito\Documents\Proyecto\Practicos1_3\Practico2\Practico2\obj\Debug\net8.0-windows\ref\Pequeño Formulario.dll
+C:\Users\Nachito\Documents\Proyecto\Practicos1_3\Practico3\Practico2\bin\Debug\net8.0-windows\Pequeño Formulario.exe
+C:\Users\Nachito\Documents\Proyecto\Practicos1_3\Practico3\Practico2\bin\Debug\net8.0-windows\Pequeño Formulario.deps.json
+C:\Users\Nachito\Documents\Proyecto\Practicos1_3\Practico3\Practico2\bin\Debug\net8.0-windows\Pequeño Formulario.runtimeconfig.json
+C:\Users\Nachito\Documents\Proyecto\Practicos1_3\Practico3\Practico2\bin\Debug\net8.0-windows\Pequeño Formulario.dll
+C:\Users\Nachito\Documents\Proyecto\Practicos1_3\Practico3\Practico2\bin\Debug\net8.0-windows\Pequeño Formulario.pdb
+C:\Users\Nachito\Documents\Proyecto\Practicos1_3\Practico3\Practico2\obj\Debug\net8.0-windows\Pequeño_Formulario.Properties.Resources.resources
+C:\Users\Nachito\Documents\Proyecto\Practicos1_3\Practico3\Practico2\obj\Debug\net8.0-windows\Pequeño Formulario.csproj.GenerateResource.cache
+C:\Users\Nachito\Documents\Proyecto\Practicos1_3\Practico3\Practico2\obj\Debug\net8.0-windows\Pequeño Formulario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nachito\Documents\Proyecto\Practicos1_3\Practico3\Practico2\obj\Debug\net8.0-windows\Pequeño Formulario.AssemblyInfoInputs.cache
+C:\Users\Nachito\Documents\Proyecto\Practicos1_3\Practico3\Practico2\obj\Debug\net8.0-windows\Pequeño Formulario.AssemblyInfo.cs
+C:\Users\Nachito\Documents\Proyecto\Practicos1_3\Practico3\Practico2\obj\Debug\net8.0-windows\Pequeño Formulario.csproj.CoreCompileInputs.cache
+C:\Users\Nachito\Documents\Proyecto\Practicos1_3\Practico3\Practico2\obj\Debug\net8.0-windows\Pequeño Formulario.dll
+C:\Users\Nachito\Documents\Proyecto\Practicos1_3\Practico3\Practico2\obj\Debug\net8.0-windows\refint\Pequeño Formulario.dll
+C:\Users\Nachito\Documents\Proyecto\Practicos1_3\Practico3\Practico2\obj\Debug\net8.0-windows\Pequeño Formulario.pdb
+C:\Users\Nachito\Documents\Proyecto\Practicos1_3\Practico3\Practico2\obj\Debug\net8.0-windows\Pequeño Formulario.genruntimeconfig.cache
+C:\Users\Nachito\Documents\Proyecto\Practicos1_3\Practico3\Practico2\obj\Debug\net8.0-windows\ref\Pequeño Formulario.dll
+C:\Users\Nachito\Documents\Proyecto\Practicos1_3\Practico3\Practico2\obj\Debug\net8.0-windows\Pequeño_Formulario.MDIParent1.resources
+C:\Users\Nachito\Documents\Proyecto\Practicos1_3\Practico3\Practico2\obj\Debug\net8.0-windows\Practico2.PequeñoFormulario.resources
