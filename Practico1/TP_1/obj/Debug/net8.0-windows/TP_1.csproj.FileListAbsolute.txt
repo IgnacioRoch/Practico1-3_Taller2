@@ -1,0 +1,16 @@
+C:\Users\Nachito\Documents\Proyecto\TP_1\TP_1\obj\Debug\net8.0-windows\TP_1.csproj.GenerateResource.cache
+C:\Users\Nachito\Documents\Proyecto\TP_1\TP_1\obj\Debug\net8.0-windows\TP_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nachito\Documents\Proyecto\TP_1\TP_1\obj\Debug\net8.0-windows\TP_1.AssemblyInfoInputs.cache
+C:\Users\Nachito\Documents\Proyecto\TP_1\TP_1\obj\Debug\net8.0-windows\TP_1.AssemblyInfo.cs
+C:\Users\Nachito\Documents\Proyecto\TP_1\TP_1\obj\Debug\net8.0-windows\TP_1.csproj.CoreCompileInputs.cache
+C:\Users\Nachito\Documents\Proyecto\TP_1\TP_1\bin\Debug\net8.0-windows\TP_1.exe
+C:\Users\Nachito\Documents\Proyecto\TP_1\TP_1\bin\Debug\net8.0-windows\TP_1.deps.json
+C:\Users\Nachito\Documents\Proyecto\TP_1\TP_1\bin\Debug\net8.0-windows\TP_1.runtimeconfig.json
+C:\Users\Nachito\Documents\Proyecto\TP_1\TP_1\bin\Debug\net8.0-windows\TP_1.dll
+C:\Users\Nachito\Documents\Proyecto\TP_1\TP_1\bin\Debug\net8.0-windows\TP_1.pdb
+C:\Users\Nachito\Documents\Proyecto\TP_1\TP_1\obj\Debug\net8.0-windows\TP_1.Form1.resources
+C:\Users\Nachito\Documents\Proyecto\TP_1\TP_1\obj\Debug\net8.0-windows\TP_1.dll
+C:\Users\Nachito\Documents\Proyecto\TP_1\TP_1\obj\Debug\net8.0-windows\refint\TP_1.dll
+C:\Users\Nachito\Documents\Proyecto\TP_1\TP_1\obj\Debug\net8.0-windows\TP_1.pdb
+C:\Users\Nachito\Documents\Proyecto\TP_1\TP_1\obj\Debug\net8.0-windows\TP_1.genruntimeconfig.cache
+C:\Users\Nachito\Documents\Proyecto\TP_1\TP_1\obj\Debug\net8.0-windows\ref\TP_1.dll
